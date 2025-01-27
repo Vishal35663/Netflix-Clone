@@ -384,6 +384,21 @@ input{
     .trending{
          width: 80vw;
     }
+
+    .hero> :first-child{
+        font-weight: 700;
+        font-size: 45px;
+    }
+
+    .hero> :nth-child(2){
+        font-weight:300;
+        font-size: 14px;
+    }
+
+    .hero> :nth-child(3){
+        font-weight: 100;
+        font-size: 10px;
+    }
 }
 
 
